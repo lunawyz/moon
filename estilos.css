@@ -1,0 +1,39 @@
+body {
+    background-color: #7a4fc3;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+ }
+
+                *{
+                    font-family: "Edu AU VIC WA NT Arrows", cursive;
+                }
+                h2 {
+                    color: rgb(0, 0, 0);
+                }
+                p {
+                    color: 
+                rgba(0, 0, 0, 0.759);
+                }
+                img {
+                    width: 700px;
+                    height: 400px;
+                } 
+                
+                table {
+                    border-collapse: collapse;
+                 }
+                 
+                 th { 
+                     background-color: rgb(134, 91, 207);
+                 }
+                 
+                 th,
+                 td {
+                     border: 1px solid rgb(62, 35, 116);
+                     text-align: left;
+                     padding: 8px;
+                 }
